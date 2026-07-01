@@ -8,6 +8,6 @@
 ---
 ให้ระบุข้อมูลของ นศ. และ URL ของ Github Pages ไว้ด้านล่างนี้
 
-- ชื่อ-สกุล:
-- รหัสนักศึกษา:
-- <strong>GITHUB PAGE URL : </strong>
+- ชื่อ-สกุล: นายธนาธิป ทิพศรี
+- รหัสนักศึกษา: 680610679
+- <strong>GITHUB PAGE URL : https://cpe207-2569.github.io/lab03-thanathip679/</strong>
